@@ -11,14 +11,15 @@ Thanks to the original Tango designers. Thanks to openclipart for the base svgs 
 
 ---
 
-### Requires (these are inherited by the Tangwaita theme)  
-
+### Strongly Recommended   
+* tango-icon-theme
+### Requires
 1) For the standard symbolic icon set
 * adwaita-icon-theme   
 2) For complete coverage of legacy fullcolor icons  
-  * tango-icon-theme (recommended, along with one of one of the below)
-  * adwaita-icon-theme-legacy   
-  * gnome-icon-theme  
+* gnome-icon-theme
+<br />
+(these three icon themes are inherited by Tangwaita in the index.theme with Tango coming first)  
 
 ---
 
@@ -42,3 +43,4 @@ systemwide
 [Adwaita Icon Theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme) - the standard icon set for the GNOME core apps
 
 [Tango Icon Theme Guidelines](https://web.archive.org/web/20060519123558/http://tango-project.org/Tango_Icon_Theme_Guidelines)  - archived at web.archive.org
+

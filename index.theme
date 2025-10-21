@@ -2,7 +2,7 @@
 Name=Tangwaita
 Comment=Tango'd Adwaita fullcolor icon theme
 Example=folder
-Inherits=Tango,AdwaitaLegacy,gnome,Adwaita,hicolor
+Inherits=Tango,gnome,Adwaita,hicolor
 Hidden=true
 
 # Directory list
