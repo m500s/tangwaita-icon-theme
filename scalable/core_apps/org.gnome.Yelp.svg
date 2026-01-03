@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866667 33.866666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="yelp2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="35.355339"
+     inkscape:cy="59.131805"
+     inkscape:window-width="2157"
+     inkscape:window-height="1607"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1.0583333"
+       spacingy="1.0583333"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2431">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2433" />
+      <stop
+         style="stop-color:#b8b8b8;stop-opacity:1;"
+         offset="1"
+         id="stop2435" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="display:inline;fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:#660000;stroke-width:0.611481;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1650"
+       cx="16.933332"
+       cy="16.933323"
+       rx="13.452593"
+       ry="13.452583" />
+    <ellipse
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f68a8a;stroke-width:0.591708;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3392"
+       cx="16.933332"
+       cy="16.933332"
+       rx="13.017612"
+       ry="13.017609" />
+    <path
+       style="fill:#fffeff;fill-opacity:0.213904;fill-rule:nonzero;stroke:none;stroke-width:0.662617;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 30.246799,16.333476 c 0,7.008143 -4.106654,-2.786405 -12.671599,0.250017 -8.6327671,3.060467 -13.955334,6.758126 -13.955334,-0.250017 0,-7.0081454 5.9644319,-12.6959154 13.313468,-12.6959154 7.349033,0 13.313465,5.68777 13.313465,12.6959154 z"
+       id="path3068"
+       sodipodi:nodetypes="czssc" />
+    <path
+       id="text11442"
+       sodipodi:nodetypes="ccsscsscsssccccscsss"
+       style="fill:#ffffff;stroke-width:0.100973"
+       d="m 14.94463,19.140581 v -0.392787 c 0,-0.669455 0.07573,-1.213702 0.227191,-1.630723 0.15247,-0.41803 0.377641,-0.7987 0.678542,-1.14403 0.299892,-0.34533 0.974395,-0.95319 2.02351,-1.822572 0.559394,-0.455391 0.83909,-0.873422 0.83909,-1.253082 0,-0.379661 -0.11208,-0.674504 -0.336241,-0.884529 -0.224162,-0.211034 -0.564443,-0.316047 -1.019834,-0.316047 -0.490731,0 -0.895635,0.162568 -1.216731,0.486693 -0.321096,0.324125 -0.111071,1.250052 -0.615939,1.698375 -0.743165,0.659357 -3.811751,0.607861 -4.017737,-0.4978 -0.257482,-1.387376 0.675513,-2.665701 1.610528,-3.5663858 0.935015,-0.9006841 2.36884,-1.3510261 4.301473,-1.3510261 1.505516,0 2.720228,0.3140277 3.645146,0.9420832 1.256111,0.8491877 1.884166,1.9811017 1.884166,3.3957407 0,0.586656 -0.162567,1.153118 -0.486693,1.698375 -0.324125,0.545257 -0.987521,1.210673 -1.988169,1.998267 -0.696717,0.552325 -1.136962,0.995599 -1.319724,1.329821 -0.182762,0.335232 -0.274648,1.309627 -0.274648,1.309627 0,1.091524 -3.93393,1.071329 -3.93393,0 z" />
+    <circle
+       id="path11457"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.00973;stroke-linecap:round;stroke-linejoin:round"
+       cx="16.933332"
+       cy="23.334564"
+       r="1.5605705" />
+  </g>
+</svg>
