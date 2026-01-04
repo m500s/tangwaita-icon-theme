@@ -1,12 +1,12 @@
 [Icon Theme]
 Name=Tangwaita
-Comment=Tango'd Adwaita fullcolor icon theme
+Comment=Tango styled Adwaita fullcolor icons and GNOME core app icons 
 Example=folder
 Inherits=Tango,gnome,Adwaita,hicolor
 Hidden=true
 
 # Directory list
-Directories=16x16/devices,16x16/emblems,16x16/mimetypes,16x16/places,scalable/devices,scalable/extras/applications,scalable/extras/browsers,scalable/mimetypes,scalable/places,scalable/status
+Directories=16x16/devices,16x16/emblems,16x16/mimetypes,16x16/places,scalable/core_apps,scalable/devices,scalable/extra_apps/browsers,scalable/extra_apps/gnome_apps,scalable/extra_apps/legacy_apps,scalable/mimetypes,scalable/places,scalable/status
 
 [16x16/devices]
 Context=Devices
@@ -28,6 +28,13 @@ Context=Places
 Size=16
 Type=Fixed
 
+[scalable/core_apps]
+Context=Applications
+Size=128
+MinSize=8
+MaxSize=512
+Type=Scalable
+
 [scalable/devices]
 Context=Devices
 Size=128
@@ -35,14 +42,21 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[scalable/extras/applications]
+[scalable/extra_apps/browsers]
 Context=Applications
 Size=128
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[scalable/extras/browsers]
+[scalable/extra_apps/gnome_apps]
+Context=Applications
+Size=128
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/extra_apps/legacy_apps]
 Context=Applications
 Size=128
 MinSize=8
