@@ -7,8 +7,8 @@
    viewBox="0 0 33.866667 33.866666"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   sodipodi:docname="org.gnome.Snapshot.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="org.gnome.Snapshot_original_new.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="3.7325"
-     inkscape:cx="43.670462"
-     inkscape:cy="141.86202"
+     inkscape:cx="78.767582"
+     inkscape:cy="60.951105"
      inkscape:window-width="2157"
      inkscape:window-height="1607"
      inkscape:window-x="26"
@@ -172,7 +172,7 @@
        x2="21.166666"
        y2="21.166666"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4814473,0,0,1.4820632,-5.0167776,-10.823681)" />
+       gradientTransform="matrix(1.5994179,0,0,1.4789203,-6.7647081,-10.78053)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7"
@@ -182,7 +182,7 @@
        x2="10.583333"
        y2="8.4666662"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4814473,0,0,1.4820632,-5.0167776,-10.823681)" />
+       gradientTransform="matrix(1.5994179,0,0,1.4789203,-6.7647081,-10.78053)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient11"
@@ -192,20 +192,20 @@
        x2="7.6729159"
        y2="24.606249"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4814473,0,0,1.4820632,-5.0167779,-10.039422)" />
+       gradientTransform="matrix(1.5994179,0,0,1.4789203,-6.7647083,-9.9979337)" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:url(#linearGradient12);stroke-width:2.35229;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:4.2;stroke-opacity:1"
-       d="m 7.526143,27.604983 -7e-7,-1.176386 7e-7,1.176386 h 18.814379 v -1.176386 1.176386 c -3.919662,3.958495 -14.894718,3.958495 -18.814379,0 z"
+       style="fill:none;stroke:url(#linearGradient12);stroke-width:2.44156;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:4.2;stroke-opacity:1"
+       d="m 6.7770303,27.566644 -8e-7,-1.173892 8e-7,1.173892 H 27.089635 v -1.173892 1.173892 c -4.231791,3.950099 -16.080813,3.950099 -20.3126047,0 z"
        id="path1-7"
        sodipodi:nodetypes="ccccccc" />
     <path
-       style="opacity:1;fill:url(#linearGradient5);stroke:url(#linearGradient9);stroke-width:0.784096;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:4.2;stroke-opacity:1"
-       d="m 7.5261424,26.820724 v -12.548135 0 c 10e-8,-15.6851689 18.8143796,-15.6851689 18.8143796,0 v 12.548135 0 c -3.919662,3.958496 -14.894718,3.958496 -18.8143796,0 z"
+       style="opacity:1;fill:url(#linearGradient5);stroke:url(#linearGradient9);stroke-width:0.813853;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:4.2;stroke-opacity:1"
+       d="m 6.7770296,26.784047 v -12.521526 0 c 1e-7,-15.6519068 20.3126054,-15.6519068 20.3126054,0 v 12.521526 0 c -4.231791,3.950101 -16.080813,3.950101 -20.3126054,0 z"
        id="path1"
        sodipodi:nodetypes="ccccccc" />
     <ellipse
