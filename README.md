@@ -1,29 +1,25 @@
 # **Tangwaita**
+### Fullcolor icons
+<img width="1500" height="1169" alt="fullcolor_icons" src="https://github.com/user-attachments/assets/d0c899df-7e65-476e-ba66-41aeac331ef9" /><br />
+### Core apps
+<img width="1359" height="500" alt="coreapps_icons" src="https://github.com/user-attachments/assets/5af85bc9-f14d-4abf-8f4d-52e9830b177e" /><br />
 
-<img width="1535" height="1175" alt="tangwaita" src="https://github.com/user-attachments/assets/aec1ba64-844c-488e-80ea-68fb45de9108" /> <br />
-
-Inspired by the Tango icon theme, this is a direct replacement for the Adwaita fullcolor icons.    
+Inspired by the Tango icon theme, this is a direct replacement for the Adwaita fullcolor icons and GNOME core app icons.    
 The icons were either modified or taken directly from the Tango icon set or designed in the Tango style.  
-Extra icons for some of the standard gnome applications and some browsers are also included.  
+Extra icons for a few additional GNOME applications and browsers are also included.  
 All the icons are public domain.
 
-Thanks to the original Tango designers. Thanks to openclipart for the base svgs for the usb and phone icons. 
-
 ---
 
-### Strongly Recommended   
-* tango-icon-theme
 ### Requires
-1) For the standard symbolic icon set
-* adwaita-icon-theme   
-2) For complete coverage of legacy fullcolor icons  
-* gnome-icon-theme
+* adwaita-icon-theme - for the standard symbolic icon set   
+### Recommended   
+* tango-icon-theme
+* gnome-icon-theme - for complete coverage of legacy fullcolor icons  
 <br />
-(these three icon themes are inherited by Tangwaita in the index.theme with Tango coming first)  
+All three themes are inherited in index.theme in the order: Tango, gnome, Adwaita
 
 ---
-
-Delete the extras folder if you only want the standard Adwaita fullcolor icons.
 
 For browsers other than chromium or firefox, rename internet-web-browser.svg using the icon name from the browser's desktop file (e.g. google-chrome.svg)  
 
@@ -32,7 +28,7 @@ For browsers other than chromium or firefox, rename internet-web-browser.svg usi
 ### Install
 
 single user
-1) copy the tar.xz into ~/.local/share/icons and run 'tar -xf tangwaita-icon-theme-1.0.tar.xz'  
+1) extract the tar.gz into ~/.local/share/icons
 2) run 'gtk-update-icon-cache -f ~/.local/share/icons/tangwaita-icon-theme' to update the icon cache
 
 systemwide 
@@ -40,7 +36,10 @@ systemwide
  
 ---
 
-[Adwaita Icon Theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme) - the standard icon set for the GNOME core apps
+Thanks to the original Tango designers.  
+Thanks to openclipart for some base svgs, particularly the usb, phone, eggplant, bookshelf and question mark. 
+
+[Adwaita Icon Theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme) - the standard fullcolor icon set 
+[GNOME Core Apps](https://apps.gnome.org) - the GNOME core apps
 
 [Tango Icon Theme Guidelines](https://web.archive.org/web/20060519123558/http://tango-project.org/Tango_Icon_Theme_Guidelines)  - archived at web.archive.org
-
