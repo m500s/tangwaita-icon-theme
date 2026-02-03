@@ -4,7 +4,7 @@
 ### Core apps
 <img width="1359" height="501" alt="coreapps" src="https://github.com/user-attachments/assets/1f4dd49e-2274-4d58-8963-8f07237409f0" /><br />
 ### Extras
-<img width="747" height="338" alt="extras" src="https://github.com/user-attachments/assets/cb652fd9-fbbf-4c6b-a38e-4c03f1a67fd0" />
+<img width="834" height="144" alt="extras" src="https://github.com/user-attachments/assets/6f251d8a-18ce-4a83-9ab3-5f36d9ec5388" /><br />
 
 Inspired by the Tango icon theme, this is a direct replacement for the Adwaita fullcolor icons and GNOME core app icons.    
 The icons were either modified or taken directly from the Tango icon set or designed in the Tango style.  
@@ -38,7 +38,7 @@ systemwide
 
 1) For browsers other than chromium or firefox, rename internet-web-browser.svg using the icon name from the browser's desktop file (e.g. google-chrome.svg)  
 2) Copy Override.xml to /usr/share/mime/packages and run 'update-mime-database /usr/share/mime/' to correctly assign icons to mimetypes (pdfs and certificates for now) 
-3) Edit index.theme to use other full icon sets (e.g. Inherits=elementary-xfce,Adwaita,hicolor)
+3) Edit index.theme to use other legacy fullcolor icon sets (e.g. Inherits=elementary-xfce,Adwaita,hicolor)
 
 ---
 
