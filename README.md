@@ -6,9 +6,8 @@
 ### Extras
 <img width="834" height="144" alt="extras" src="https://github.com/user-attachments/assets/6f251d8a-18ce-4a83-9ab3-5f36d9ec5388" /><br />
 
-Inspired by the Tango icon theme, this is a direct replacement for the Adwaita fullcolor icons and GNOME core app icons.    
-The icons were either modified or taken directly from the Tango icon set or designed in the Tango style.  
-Extra icons for browsers and a few additional GNOME applications are also included.  
+Inspired by the Tango icon theme, this is a direct replacement for the Adwaita fullcolor icons and GNOME core app icons. The icons were either modified or taken directly from the Tango icon set or designed in the Tango style. Extra icons for browsers and a few additional GNOME applications are also included.  
+<br />
 All the icons are public domain.
 
 ---
