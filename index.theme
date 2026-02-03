@@ -6,7 +6,7 @@ Inherits=Tango,gnome,Adwaita,hicolor
 Hidden=true
 
 # Directory list
-Directories=16x16/devices,16x16/emblems,16x16/mimetypes,16x16/places,scalable/core_apps,scalable/devices,scalable/extra_apps/browsers,scalable/extra_apps/gnome_apps,scalable/extra_apps/legacy_apps,scalable/mimetypes,scalable/places,scalable/status
+Directories=16x16/devices,16x16/emblems,16x16/mimetypes,16x16/places,scalable/core_apps,scalable/devices,scalable/extras/browsers,scalable/extras/gnome_apps,scalable/extras/legacy_apps,scalable/extras/mimetypes,scalable/mimetypes,scalable/places,scalable/status
 
 [16x16/devices]
 Context=Devices
@@ -42,22 +42,29 @@ MinSize=8
 MaxSize=512
 Type=Scalable
 
-[scalable/extra_apps/browsers]
+[scalable/extras/browsers]
 Context=Applications
 Size=128
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[scalable/extra_apps/gnome_apps]
+[scalable/extras/gnome_apps]
 Context=Applications
 Size=128
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[scalable/extra_apps/legacy_apps]
+[scalable/extras/legacy_apps]
 Context=Applications
+Size=128
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[scalable/extras/mimetypes]
+Context=MimeTypes
 Size=128
 MinSize=8
 MaxSize=512

@@ -1,0 +1,34 @@
+<!-- The Override.xml file is used to correctly assign icons for a mimetype -->
+<!-- Copy this file to /usr/share/mime/packages and run 'update-mime-database /usr/share/mime/' -->
+<!-- These were taken directly from the freedesktop.org.xml, changing the generic-icon name -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/pdf">
+    <comment>PDF document</comment>
+    <acronym>PDF</acronym>
+    <expanded-acronym>Portable Document Format</expanded-acronym>
+    <generic-icon name="application-pdf"/>
+    <magic>
+      <match type="string" value="%PDF-" offset="0:1024"/>
+    </magic>
+    <glob pattern="*.pdf"/>
+    <alias type="application/x-pdf"/>
+    <alias type="image/pdf"/>
+    <alias type="application/acrobat"/>
+    <alias type="application/nappdf"/>
+  </mime-type>
+  <mime-type type="application/x-x509-ca-cert">
+    <comment>DER/PEM/Netscape-encoded X.509 certificate</comment>
+    <generic-icon name="application-certificate"/>
+    <magic>
+      <match type="string" value="-----BEGIN CA CERTIFICATE-----" offset="0"/>
+      <match type="string" value="-----BEGIN TRUSTED CERTIFICATE-----" offset="0"/>
+    </magic>
+    <glob pattern="*.der"/>
+    <glob pattern="*.crt"/>
+    <glob pattern="*.cert"/>
+    <glob pattern="*.pem"/>
+  </mime-type>
+</mime-info>
+
