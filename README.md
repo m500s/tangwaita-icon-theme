@@ -1,9 +1,10 @@
 # **Tangwaita**
 ### Fullcolor icons
-<img width="1500" height="1169" alt="fullcolor_icons" src="https://github.com/user-attachments/assets/d0c899df-7e65-476e-ba66-41aeac331ef9" /><br />
+<img width="1501" height="1169" alt="fullcolor" src="https://github.com/user-attachments/assets/5adf10e6-8ac4-40d8-bfd9-6833b88ae6f5" /><br />
 ### Core apps
-<img width="1359" height="500" alt="coreapps_icons" src="https://github.com/user-attachments/assets/5af85bc9-f14d-4abf-8f4d-52e9830b177e" /><br />
+<img width="1359" height="501" alt="coreapps" src="https://github.com/user-attachments/assets/1f4dd49e-2274-4d58-8963-8f07237409f0" /><br />
 ### Extras
+<img width="747" height="338" alt="extras" src="https://github.com/user-attachments/assets/cb652fd9-fbbf-4c6b-a38e-4c03f1a67fd0" />
 
 Inspired by the Tango icon theme, this is a direct replacement for the Adwaita fullcolor icons and GNOME core app icons.    
 The icons were either modified or taken directly from the Tango icon set or designed in the Tango style.  
