@@ -1,8 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- The Override.xml file is used to correctly assign icons for a mimetype -->
 <!-- Copy this file to /usr/share/mime/packages and run 'update-mime-database /usr/share/mime/' -->
 <!-- These were taken directly from the freedesktop.org.xml, changing the generic-icon name -->
-
-<?xml version="1.0" encoding="UTF-8"?>
 <mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
   <mime-type type="application/pdf">
     <comment>PDF document</comment>
