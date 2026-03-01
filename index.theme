@@ -3,7 +3,6 @@ Name=Tangwaita
 Comment=Tango styled Adwaita fullcolor icons and GNOME core app icons 
 Example=folder
 Inherits=Tango,gnome,Adwaita,hicolor
-Hidden=true
 
 # Directory list
 Directories=16x16/devices,16x16/emblems,16x16/mimetypes,16x16/places,scalable/core_apps,scalable/devices,scalable/extras/browsers,scalable/extras/gnome_apps,scalable/extras/legacy_apps,scalable/extras/mimetypes,scalable/mimetypes,scalable/places,scalable/status
