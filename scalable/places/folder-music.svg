@@ -6,7 +6,7 @@
    height="128"
    id="svg97"
    sodipodi:version="0.32"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="folder-music.svg"
    inkscape:export-filename="/home/jimmac/Desktop/horlander-style3.png"
    inkscape:export-xdpi="90.000000"
@@ -179,12 +179,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient319"
        id="linearGradient6"
-       x1="75.251534"
-       y1="63.572025"
-       x2="69.252579"
-       y2="104.32777"
+       x1="74.912682"
+       y1="59.698982"
+       x2="78.303001"
+       y2="98.450531"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.84875388,0.08601893,-0.07425632,0.98320101,15.553527,-0.5360334)" />
+       gradientTransform="matrix(1.0609423,0.10752366,-0.0928204,1.2290013,2.4419101,-20.170041)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5048"
@@ -226,9 +226,9 @@
      borderopacity="0.10196078"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="99.923027"
-     inkscape:cy="65.363183"
+     inkscape:zoom="16.000001"
+     inkscape:cx="89.593744"
+     inkscape:cy="80.437495"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -437,11 +437,7 @@
     <path
        sodipodi:nodetypes="cccccccccccccc"
        id="path7042"
-       d="m 84,64 c 0,0 -19.066249,0.77404 -19.066249,0.77404 l -1.558647,20.637498 c -1.306365,-0.664809 -3.165572,-0.992415 -5.251979,-0.711287 -3.627323,0.488752 -6.352439,2.506353 -6.107872,4.482882 0.244567,1.976528 3.379692,3.197888 7.00702,2.709133 3.427761,-0.461863 6.502423,-2.241313 6.576183,-4.107229 l 1.489661,-18.018951 c 0,0 14.055033,-1.339828 14.055033,-1.339828 L 79.906281,84.803241 C 71.629885,82.532339 68.827215,86.4427 69.071783,88.41923 c 0.244569,1.97653 3.379695,3.197887 7.00702,2.709134 3.218543,-0.433675 5.622546,-2.068322 5.979756,-3.809646 z"
-       style="color:#000000;display:block;visibility:visible;fill:url(#linearGradient6);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.88369;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none" />
+       d="m 88,60.5 c 0,0 -23.832811,0.96755 -23.832811,0.96755 L 62.21888,87.264422 c -1.632956,-0.831011 -3.956965,-1.240519 -6.564974,-0.889109 -4.534153,0.61094 -7.940548,3.132942 -7.63484,5.603603 0.305709,2.47066 4.224615,3.99736 8.758775,3.386416 4.284701,-0.577329 8.128029,-2.801641 8.220229,-5.134036 l 1.862076,-22.523689 c 0,0 17.568791,-1.674785 17.568791,-1.674785 l -1.546086,20.471229 c -10.345495,-2.838628 -13.848832,2.049324 -13.543122,4.519986 0.305711,2.470663 4.224618,3.997359 8.758774,3.386418 4.023179,-0.542094 7.028183,-2.585403 7.474695,-4.762058 z"
+       style="color:#000000;display:block;visibility:visible;fill:url(#linearGradient6);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.10461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="pattern" />
 </svg>

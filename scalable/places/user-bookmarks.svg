@@ -6,7 +6,7 @@
    height="128"
    id="svg97"
    sodipodi:version="0.32"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="user-bookmarks.svg"
    inkscape:export-filename="/home/jimmac/Desktop/horlander-style3.png"
    inkscape:export-xdpi="90.000000"
@@ -236,9 +236,9 @@
        xlink:href="#linearGradient3"
        id="linearGradient4"
        x1="7.4343429"
-       y1="-24.749054"
+       y1="-35.081234"
        x2="7.4343429"
-       y2="83.738853"
+       y2="70.759048"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -249,9 +249,9 @@
      borderopacity="0.10196078"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="64.214137"
-     inkscape:cy="73.583303"
+     inkscape:zoom="5.656854"
+     inkscape:cx="75.04171"
+     inkscape:cy="78.84241"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -288,7 +288,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Folder Icon</dc:title>
         <dc:date />
         <dc:creator>
           <cc:Agent>
@@ -473,12 +472,8 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 34.181198,47.576219 7.3760863,28.078436 -19.500722,47.477271 -9.2404634,15.958949 -35.995243,-3.6078448 -2.8489425,-3.5894565 7.4925025,-35.081236 17.717784,-3.5515484 50.863928,-3.4477446 24.0372,16.020285 Z"
-       inkscape:transform-center-x="0.016545815"
-       inkscape:transform-center-y="-0.42681577"
-       transform="matrix(0.36841244,0,0,0.38713992,69.261096,75.581347)" />
+       inkscape:transform-center-x="0.020682548"
+       inkscape:transform-center-y="-0.53351989"
+       transform="matrix(0.46051556,0,0,0.48392491,68.57637,74.976683)" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="pattern" />
 </svg>

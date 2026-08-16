@@ -6,7 +6,7 @@
    height="128"
    id="svg97"
    sodipodi:version="0.32"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="folder-templates.svg"
    inkscape:export-filename="/home/jimmac/Desktop/horlander-style3.png"
    inkscape:export-xdpi="90.000000"
@@ -180,9 +180,9 @@
        xlink:href="#linearGradient319"
        id="linearGradient3"
        x1="67.805824"
-       y1="62.180828"
+       y1="57.894997"
        x2="67.805824"
-       y2="105.30582"
+       y2="102.38688"
        gradientUnits="userSpaceOnUse" />
     <inkscape:path-effect
        effect="dashed_stroke"
@@ -236,9 +236,9 @@
      borderopacity="0.10196078"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="105.62408"
-     inkscape:cy="71.550371"
+     inkscape:zoom="22.627416"
+     inkscape:cx="87.084624"
+     inkscape:cy="80.521789"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -454,10 +454,6 @@
        inkscape:path-effect="#path-effect1"
        sodipodi:type="rect"
        d="M 54.05571,71.149802 V 60.18071 l 10.969092,0 m 6.062052,0 h 10.969092 v 10.969092 m 0,6.062052 V 88.180946 H 71.086854 m -6.062052,0 H 54.05571 V 77.211854 m 0,-6.062052 V 60.18071"
-       transform="matrix(0.85964284,0,0,0.85964284,13.496295,14.230982)" />
+       transform="matrix(1.1052551,0,0,1.1052551,-3.2190511,-3.9887386)" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="pattern" />
 </svg>

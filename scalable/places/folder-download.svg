@@ -6,7 +6,7 @@
    height="128"
    id="svg97"
    sodipodi:version="0.32"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="folder-download.svg"
    inkscape:export-filename="/home/jimmac/Desktop/horlander-style3.png"
    inkscape:export-xdpi="90.000000"
@@ -226,8 +226,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="74.0625"
-     inkscape:cy="96.40625"
+     inkscape:cx="74.03125"
+     inkscape:cy="96.5"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -433,18 +433,11 @@
        id="path323"
        d="m 27.971527,46.595757 -3.190562,42.99689 c 0,0 22.688439,-11.401352 51.048985,-11.401352 28.36056,0 42.54083,-31.595538 42.54083,-31.595538 z"
        style="display:inline;fill:#ffffff;fill-opacity:0.0892857;fill-rule:evenodd;stroke:none;stroke-width:2.74169px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <g
-       id="g1464"
-       transform="matrix(-0.94142643,0,0,-0.96967386,94.146157,99.332444)">
-      <path
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient2);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
-         d="M 14.519136,38.5 32.524165,38.4961 V 25.504468 l 7.995366,-0.0078 L 23.374809,5.4992135 6.5285585,25.497284 l 7.9958815,0.0038 z"
-         id="path8643"
-         sodipodi:nodetypes="cccccccc" />
-    </g>
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient2);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       d="M 14.519136,38.5 32.524165,38.4961 V 25.504468 l 7.995366,-0.0078 L 23.374809,5.4992135 6.5285585,25.497284 l 7.9958815,0.0038 z"
+       id="path8643"
+       sodipodi:nodetypes="cccccccc"
+       transform="matrix(-0.94142643,0,0,-0.96967386,94.146157,99.332444)" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="pattern" />
 </svg>

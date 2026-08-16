@@ -6,7 +6,7 @@
    height="128"
    id="svg97"
    sodipodi:version="0.32"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="user-home.svg"
    inkscape:export-filename="/home/jimmac/Desktop/horlander-style3.png"
    inkscape:export-xdpi="90.000000"
@@ -191,11 +191,11 @@
        xlink:href="#linearGradient319"
        id="linearGradient2296"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.9547391,0,0,1.7375432,29.802684,20.29774)"
+       gradientTransform="matrix(2.1719323,0,0,1.9306035,25.114093,13.886377)"
        x1="21.587185"
        y1="24.000704"
        x2="21.587185"
-       y2="50.474865" />
+       y2="49.406548" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5048"
@@ -237,9 +237,9 @@
      borderopacity="0.10196078"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313709"
-     inkscape:cx="95.636192"
-     inkscape:cy="86.576386"
+     inkscape:zoom="32.000002"
+     inkscape:cx="77.921871"
+     inkscape:cy="84.249996"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -446,15 +446,11 @@
        d="m 27.971527,46.595757 -3.190562,42.99689 c 0,0 22.688439,-11.401352 51.048985,-11.401352 28.36056,0 42.54083,-31.595538 42.54083,-31.595538 z"
        style="display:inline;fill:#ffffff;fill-opacity:0.0892857;fill-rule:evenodd;stroke:none;stroke-width:2.74169px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
-       d="M 59.625,78 58.5,94 h 9 l 1.125,-14 h 6.75 L 74.25,94 h 9 L 84.375,78 H 90 L 72,62 54,78 Z"
-       style="display:inline;fill:url(#linearGradient2296);fill-opacity:1;fill-rule:evenodd;stroke-width:5.52884pt"
+       d="M 58.25,78 57,95.777778 h 10 l 1.25,-15.555556 h 7.5 L 74.5,95.777778 h 10 L 85.75,78 H 92 L 72,60.222222 52,78 Z"
+       style="display:inline;fill:url(#linearGradient2296);fill-opacity:1;fill-rule:evenodd;stroke-width:6.14316pt"
        id="path892"
        inkscape:r_cx="true"
        inkscape:r_cy="true"
        sodipodi:nodetypes="cccccccccccc" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="pattern" />
 </svg>

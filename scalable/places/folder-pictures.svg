@@ -6,7 +6,7 @@
    height="128"
    id="svg97"
    sodipodi:version="0.32"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="folder-pictures.svg"
    inkscape:export-filename="/home/jimmac/Desktop/horlander-style3.png"
    inkscape:export-xdpi="90.000000"
@@ -179,20 +179,20 @@
        inkscape:collect="always"
        xlink:href="#linearGradient319"
        id="linearGradient20"
-       x1="72.427673"
-       y1="62.255814"
-       x2="72.427673"
-       y2="101.28609"
+       x1="72.420959"
+       y1="59.031834"
+       x2="72.420959"
+       y2="95.720863"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1020646,0,0,1.1175002,-7.8125785,-3.9680901)" />
+       gradientTransform="matrix(1.3775811,0,0,1.3968756,-27.765743,-24.460131)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient319"
        id="linearGradient22"
        x1="30.893648"
-       y1="13.359083"
+       y1="11.184498"
        x2="30.893648"
-       y2="26.31241"
+       y2="31.324383"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.6820699,0,0,1.6820699,-22.232022,-9.9468132)" />
     <linearGradient
@@ -200,9 +200,9 @@
        xlink:href="#linearGradient319"
        id="linearGradient27"
        x1="28.927671"
-       y1="12.89616"
+       y1="11.198196"
        x2="28.927671"
-       y2="26.666721"
+       y2="31.321228"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.6820699,0,0,1.6820699,-22.232022,-9.9468132)" />
     <linearGradient
@@ -246,10 +246,10 @@
      borderopacity="0.10196078"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="66.5625"
-     inkscape:cy="82.28125"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="16.000001"
+     inkscape:cx="99.468746"
+     inkscape:cy="70.249997"
+     inkscape:current-layer="g7654"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -456,11 +456,7 @@
        style="display:inline;fill:#ffffff;fill-opacity:0.0892857;fill-rule:evenodd;stroke:none;stroke-width:2.74169px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <g
        id="g7654"
-       transform="matrix(0.76430266,0,0,0.99786634,53.020962,60.342691)">
-      <path
-         style="fill:none;fill-rule:nonzero;stroke:none;stroke-width:1.21667;stroke-miterlimit:4"
-         d="M 5.512695,5.237844 H 39.643234 V 19.627375 H 5.512695 Z"
-         id="path16203" />
+       transform="matrix(0.95537854,0,0,1.2473333,48.276199,55.928362)">
       <g
          id="g16205"
          style="fill-rule:nonzero;stroke:#000000;stroke-width:1.15611;stroke-miterlimit:4"
@@ -507,15 +503,11 @@
          id="path16229" />
     </g>
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient20);stroke-width:4.00014;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient20);stroke-width:5.00017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
        id="rect8163"
-       width="27.999861"
-       height="27.999863"
-       x="58.000069"
-       y="64.000069" />
+       width="34.999832"
+       height="34.999836"
+       x="54.500084"
+       y="60.500084" />
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="pattern" />
 </svg>
