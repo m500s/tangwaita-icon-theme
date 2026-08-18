@@ -1,11 +1,10 @@
 # **Tangwaita**
 ### Fullcolor icons
-<img width="1501" height="1169" alt="fullcolor" src="https://github.com/user-attachments/assets/5adf10e6-8ac4-40d8-bfd9-6833b88ae6f5" /><br />
+<img width="1366" height="1338" alt="fullcolor" src="https://github.com/user-attachments/assets/089a5d93-8632-4188-b8f8-f2d102f10bf0" /><br />
 ### Core apps
-<img width="1359" height="501" alt="coreapps" src="https://github.com/user-attachments/assets/1f4dd49e-2274-4d58-8963-8f07237409f0" /><br />
+<img width="1069" height="670" alt="core apps" src="https://github.com/user-attachments/assets/364ccd88-f88a-49c1-950e-67e5be211c57" /><br />
 ### Extras
-<img width="952" height="144" alt="extras" src="https://github.com/user-attachments/assets/c5f92ac0-3b86-47d8-82d7-fcfeba67c1e2" />
-<br />
+<img width="768" height="346" alt="extras" src="https://github.com/user-attachments/assets/88705fdb-b2da-48ee-8e8b-379550fe181a" /><br />
 
 ---
 
